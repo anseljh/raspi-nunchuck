@@ -2,8 +2,6 @@
 
 A Python 3 class for using a Wii nunchuck controller with a Raspberry Pi
 
-Pressing the Z button while holding the stick at the upper right position:
-
 ## What's this?
 
 **Who *wouldn't* want to remotely control a robot with a [Wii Nunchuk™ controller](https://store.nintendo.com/nunchuk-wii-u-wii-wii-mini.html)?**
